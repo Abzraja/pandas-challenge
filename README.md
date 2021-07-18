@@ -1,7 +1,7 @@
 # Pandas Challenge - Complete!
 
 ## Notice!
-### The kernal must be restarted and outputs cleared. some variables are shared so the cells must be run in order!
+### Some variables are shared so the cells must be run in order! The kernal must be restarted and outputs cleared and the cells must be run in the correct order to output the correct dataframes for each step.
 
 ## What the Pandas?!
 <img src="https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/3ED6FCAB-D280-4197-8B02-BCCD9846076A.jpg?itok=EKczHCGX" height="200" width="300">
