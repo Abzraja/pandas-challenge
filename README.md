@@ -4,7 +4,7 @@
 <br />
 
 ### Summary
-Analysis of purchase data for game virtual items to obtain meaningful insights.
+Analysis of game virtual item purchase data to obtain meaningful insights.
 
 <br />
 
